@@ -1,0 +1,1 @@
+This system is a scratch of a student manage system, used to learn about oop programming.
