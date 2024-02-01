@@ -1,0 +1,1 @@
+This is a landing page of a startup project named "Gamelancer". It was made for college work and to imrpove my CSS knowledge. This page contains only CSS and HTML5.
