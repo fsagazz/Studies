@@ -1,1 +1,1 @@
-This system is a scratch of a student manage system, used to learn about oop programming.
+This system is a sketch of a student manage system, used to learn about oop programming.
