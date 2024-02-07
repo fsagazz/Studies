@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SQLIte_API_Test.props" />
+</Project>
